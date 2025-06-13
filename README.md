@@ -54,19 +54,6 @@ Users can interact with the map:
 
 ---
 
-## 📁 File Structure
-
-- `Main.java` – launches the JavaFX application
-- `Graph.java` – handles graph construction and shortest path logic
-- `Vertex.java` / `Edge.java` – represent cities and roads
-- `MapRenderer.java` – converts lat/lon into on-screen projection
-- `MinHeap.java` – custom implementation for Dijkstra optimization
-- `*.fxml` – UI layout designed via Scene Builder
-- `USA.txt` – file with cities (name, lat, lon)
-- `Test.txt` – file with edge connections
-
----
-
 ## 🛠️ How to Run
 
 1. Open the project in an IDE like IntelliJ or Eclipse with JavaFX support
